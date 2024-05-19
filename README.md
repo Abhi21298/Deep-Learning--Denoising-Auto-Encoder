@@ -1,5 +1,5 @@
 # Deep-Learning--Denoising-Auto-Encoder
-This is an academic mini-project on creating a denoising autoencoder for text image corrupted by noise.
+This is an academic mini-project on creating a denoising autoencoder for text image corrupted by noise. 2 types of autoencoders were used - Dense layers based and CNN based.
 
 ## Objective - 
 To create an effective denoising autoencoder that retrieve images from text images completely corrupted by noise.
